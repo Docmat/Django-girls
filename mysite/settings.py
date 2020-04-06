@@ -25,7 +25,7 @@ SECRET_KEY = '1+jzyrc9oe4hs!qo_sluqdnzpr&2mz_dxy!ul^mr^$*n&6gu@)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost']
+ALLOWED_HOSTS = ['localhost','docmat.pythonanywhere.com']
 
 
 # Application definition
